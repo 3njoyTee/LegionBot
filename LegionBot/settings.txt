@@ -1,0 +1,8 @@
+token = ODQ0OTg5MDgwMzE0OTcwMTcy.YKabZw.gOwld6u9Dw227ZzYqlHKIEMpgS4
+UI = 0x163645
+logs = 829681127446151209
+icon = https://cdn.discordapp.com/avatars/844665753278218260/d1ab9ebbedafeeeeaa6a771733a90b9f.png?size=4096
+prefix = !
+name = Legion Bot
+guild_id = 844988685220577323
+main_emoji = <a:nitro_crystal:822775091326091295>
